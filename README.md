@@ -2,7 +2,7 @@
 - 👀 I’m interested in All tech stuf
 - 🌱 I’m currently learning java,MERN stack
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ,0762213874
 - 😄 Pronouns: he/him
 - ⚡ Fun fact:   I'm in love with football        
 
