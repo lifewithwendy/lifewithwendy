@@ -14,7 +14,8 @@
 
 - 📫 Reach me at **wvedmund@gmail.com**
 
-- 📄 Know more about my professional experiences [My Resume]([[https://drive.google.com/drive/folders/YOUR-FOLDER-ID?usp=sharing](https://drive.google.com/file/d/1V7Po1-YYQ4Xt2l55D2u5gR90fOnhLpbf/view?usp=drive_link)](https://drive.google.com/file/d/1V7Po1-YYQ4Xt2l55D2u5gR90fOnhLpbf/view?usp=drive_link))
+- 📄 Know more about my professional experiences [My Resume](https://drive.google.com/file/d/1V7Po1-YYQ4Xt2l55D2u5gR90fOnhLpbf/view?usp=drive_link)
+
 
 ---
 
