@@ -21,9 +21,9 @@
 
 ### 🛠 Languages and Tools:
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,java,react,nodejs,php,ts,c,cs,dotnet,git,github,tailwind,bootstrap,mysql,firebase,figma,azure&theme=light&perline=13" alt="Languages and Tools" />
-  </a>
+<img src="https://skillicons.dev/icons?i=html,css,js,java,react,nodejs,php,py,dart,flutter,c,cpp,azure,git,github,tailwind,aws,bun,bootstrap,mysql,firebase,idea,eclipse,androidstudio,vscode,visualstudio,figma,docker,linux,materialui,mongodb,nextjs,npm,postgres,postman,redux,sass,scala,vite&theme=dark&perline=13"/>
+<br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnaliyVinukiy&theme=highcontrast&layout=compact&langs_count=20&hide_border=true&count_private=true" alt="Top Languages">
 </p>
 
 ---
