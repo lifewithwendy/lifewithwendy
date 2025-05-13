@@ -36,6 +36,9 @@
 </p>
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lifewithwendy&theme=radical">
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lifewithwendy&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
