@@ -13,9 +13,10 @@
 - 💬 Ask me about **Full Stack Development, Data Science, and Cloud Computing**
 
 - 📫 Reach me at **wvedmund@gmail.com**
-
+<!--
 - I write content on [Blogger](https://wendttheblogger.blogspot.com/2024/11/a-complete-guide-to-software.html)  ,Make sure to read my content 
-- 📄 Know more about my professional experiences [My Resume](https://drive.google.com/file/d/1V7Po1-YYQ4Xt2l55D2u5gR90fOnhLpbf/view?usp=drive_link)
+-->
+- 📄 Know more about my professional experiences [My Resume](https://drive.google.com/file/d/1QxL5y7cj6huZQmATUuzDZSPsoTFakj3R/view)
 
 
 ---
